@@ -1,0 +1,460 @@
+{
+  "version": 1,
+  "exportedAt": "2026-08-25T00:00:00+00:00",
+  "exportedBy": "System",
+  "questionSets": [
+    {
+      "name": "Placeholder Set",
+      "language": "en",
+      "status": "published",
+      "questions": [
+        {
+          "question": "Name something you take to the beach",
+          "answers": [
+            {
+              "answer": "Towel",
+              "points": 32
+            },
+            {
+              "answer": "Sunscreen",
+              "points": 24
+            },
+            {
+              "answer": "Umbrella",
+              "points": 18
+            },
+            {
+              "answer": "Cooler",
+              "points": 12
+            },
+            {
+              "answer": "Sunglasses",
+              "points": 8
+            },
+            {
+              "answer": "Chair",
+              "points": 4
+            },
+            {
+              "answer": "Book",
+              "points": 1
+            },
+            {
+              "answer": "Snacks",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "question": "Name a reason someone might be late for work",
+          "answers": [
+            {
+              "answer": "Traffic",
+              "points": 35
+            },
+            {
+              "answer": "Overslept",
+              "points": 28
+            },
+            {
+              "answer": "Car trouble",
+              "points": 15
+            },
+            {
+              "answer": "Kids",
+              "points": 10
+            },
+            {
+              "answer": "Weather",
+              "points": 6
+            },
+            {
+              "answer": "Lost keys",
+              "points": 3
+            },
+            {
+              "answer": "Public transit delay",
+              "points": 2
+            },
+            {
+              "answer": "Forgot something",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "question": "Name something people are afraid of",
+          "answers": [
+            {
+              "answer": "Spiders",
+              "points": 30
+            },
+            {
+              "answer": "Heights",
+              "points": 22
+            },
+            {
+              "answer": "Snakes",
+              "points": 18
+            },
+            {
+              "answer": "Public speaking",
+              "points": 12
+            },
+            {
+              "answer": "Dark",
+              "points": 8
+            },
+            {
+              "answer": "Death",
+              "points": 5
+            },
+            {
+              "answer": "Flying",
+              "points": 3
+            },
+            {
+              "answer": "Clowns",
+              "points": 2
+            }
+          ]
+        },
+        {
+          "question": "Name a food you eat with your hands",
+          "answers": [
+            {
+              "answer": "Pizza",
+              "points": 34
+            },
+            {
+              "answer": "Fries",
+              "points": 26
+            },
+            {
+              "answer": "Burger",
+              "points": 20
+            },
+            {
+              "answer": "Chicken wings",
+              "points": 10
+            },
+            {
+              "answer": "Sandwich",
+              "points": 6
+            },
+            {
+              "answer": "Chips",
+              "points": 2
+            },
+            {
+              "answer": "Tacos",
+              "points": 1
+            },
+            {
+              "answer": "Popcorn",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "question": "Name something you do right before bed",
+          "answers": [
+            {
+              "answer": "Brush teeth",
+              "points": 33
+            },
+            {
+              "answer": "Check phone",
+              "points": 25
+            },
+            {
+              "answer": "Read",
+              "points": 16
+            },
+            {
+              "answer": "Set alarm",
+              "points": 12
+            },
+            {
+              "answer": "Turn off lights",
+              "points": 8
+            },
+            {
+              "answer": "Wash face",
+              "points": 4
+            },
+            {
+              "answer": "Pray",
+              "points": 1
+            },
+            {
+              "answer": "Drink water",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "question": "Name a job where you have to wear a uniform",
+          "answers": [
+            {
+              "answer": "Police officer",
+              "points": 30
+            },
+            {
+              "answer": "Nurse",
+              "points": 24
+            },
+            {
+              "answer": "Soldier",
+              "points": 18
+            },
+            {
+              "answer": "Firefighter",
+              "points": 14
+            },
+            {
+              "answer": "Pilot",
+              "points": 8
+            },
+            {
+              "answer": "Chef",
+              "points": 3
+            },
+            {
+              "answer": "Waiter",
+              "points": 2
+            },
+            {
+              "answer": "Security guard",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "question": "Name something in your kitchen that gets used every day",
+          "answers": [
+            {
+              "answer": "Refrigerator",
+              "points": 36
+            },
+            {
+              "answer": "Stove",
+              "points": 22
+            },
+            {
+              "answer": "Kettle",
+              "points": 15
+            },
+            {
+              "answer": "Microwave",
+              "points": 12
+            },
+            {
+              "answer": "Sink",
+              "points": 7
+            },
+            {
+              "answer": "Coffee maker",
+              "points": 4
+            },
+            {
+              "answer": "Plates",
+              "points": 2
+            },
+            {
+              "answer": "Knife",
+              "points": 2
+            }
+          ]
+        }
+      ],
+      "surveyQuestions": [
+        {
+          "question": "Name something you take to the beach",
+          "answers": [
+            {
+              "answer": "Towel",
+              "points": 32
+            },
+            {
+              "answer": "Sunscreen",
+              "points": 24
+            },
+            {
+              "answer": "Umbrella",
+              "points": 18
+            },
+            {
+              "answer": "Cooler",
+              "points": 12
+            },
+            {
+              "answer": "Sunglasses",
+              "points": 8
+            },
+            {
+              "answer": "Chair",
+              "points": 4
+            },
+            {
+              "answer": "Book",
+              "points": 1
+            },
+            {
+              "answer": "Snacks",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "question": "Name a reason someone might be late for work",
+          "answers": [
+            {
+              "answer": "Traffic",
+              "points": 35
+            },
+            {
+              "answer": "Overslept",
+              "points": 28
+            },
+            {
+              "answer": "Car trouble",
+              "points": 15
+            },
+            {
+              "answer": "Kids",
+              "points": 10
+            },
+            {
+              "answer": "Weather",
+              "points": 6
+            },
+            {
+              "answer": "Lost keys",
+              "points": 3
+            },
+            {
+              "answer": "Public transit delay",
+              "points": 2
+            },
+            {
+              "answer": "Forgot something",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "question": "Name something people are afraid of",
+          "answers": [
+            {
+              "answer": "Spiders",
+              "points": 30
+            },
+            {
+              "answer": "Heights",
+              "points": 22
+            },
+            {
+              "answer": "Snakes",
+              "points": 18
+            },
+            {
+              "answer": "Public speaking",
+              "points": 12
+            },
+            {
+              "answer": "Dark",
+              "points": 8
+            },
+            {
+              "answer": "Death",
+              "points": 5
+            },
+            {
+              "answer": "Flying",
+              "points": 3
+            },
+            {
+              "answer": "Clowns",
+              "points": 2
+            }
+          ]
+        },
+        {
+          "question": "Name a food you eat with your hands",
+          "answers": [
+            {
+              "answer": "Pizza",
+              "points": 34
+            },
+            {
+              "answer": "Fries",
+              "points": 26
+            },
+            {
+              "answer": "Burger",
+              "points": 20
+            },
+            {
+              "answer": "Chicken wings",
+              "points": 10
+            },
+            {
+              "answer": "Sandwich",
+              "points": 6
+            },
+            {
+              "answer": "Chips",
+              "points": 2
+            },
+            {
+              "answer": "Tacos",
+              "points": 1
+            },
+            {
+              "answer": "Popcorn",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "question": "Name something you do right before bed",
+          "answers": [
+            {
+              "answer": "Brush teeth",
+              "points": 33
+            },
+            {
+              "answer": "Check phone",
+              "points": 25
+            },
+            {
+              "answer": "Read",
+              "points": 16
+            },
+            {
+              "answer": "Set alarm",
+              "points": 12
+            },
+            {
+              "answer": "Turn off lights",
+              "points": 8
+            },
+            {
+              "answer": "Wash face",
+              "points": 4
+            },
+            {
+              "answer": "Pray",
+              "points": 1
+            },
+            {
+              "answer": "Drink water",
+              "points": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
