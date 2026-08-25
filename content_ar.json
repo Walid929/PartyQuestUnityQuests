@@ -4,265 +4,265 @@
   "exportedBy": "System",
   "questionSets": [
     {
-      "name": "Placeholder Set",
-      "language": "en",
+      "name": "مجموعة تجريبية",
+      "language": "ar",
       "status": "published",
       "questions": [
         {
-          "question": "Name something you take to the beach",
+          "question": "اذكر شيئاً تأخذه معك إلى الشاطئ",
           "answers": [
             {
-              "answer": "Towel",
+              "answer": "منشفة",
               "points": 32
             },
             {
-              "answer": "Sunscreen",
+              "answer": "واقي شمس",
               "points": 24
             },
             {
-              "answer": "Umbrella",
+              "answer": "مظلة",
               "points": 18
             },
             {
-              "answer": "Cooler",
+              "answer": "ثلاجة صغيرة",
               "points": 12
             },
             {
-              "answer": "Sunglasses",
+              "answer": "نظارة شمسية",
               "points": 8
             },
             {
-              "answer": "Chair",
+              "answer": "كرسي",
               "points": 4
             },
             {
-              "answer": "Book",
+              "answer": "كتاب",
               "points": 1
             },
             {
-              "answer": "Snacks",
+              "answer": "وجبات خفيفة",
               "points": 1
             }
           ]
         },
         {
-          "question": "Name a reason someone might be late for work",
+          "question": "اذكر سبباً يجعل الشخص يتأخر عن العمل",
           "answers": [
             {
-              "answer": "Traffic",
+              "answer": "الزحام",
               "points": 35
             },
             {
-              "answer": "Overslept",
+              "answer": "الاستيقاظ متأخراً",
               "points": 28
             },
             {
-              "answer": "Car trouble",
+              "answer": "عطل في السيارة",
               "points": 15
             },
             {
-              "answer": "Kids",
+              "answer": "الأطفال",
               "points": 10
             },
             {
-              "answer": "Weather",
+              "answer": "الطقس",
               "points": 6
             },
             {
-              "answer": "Lost keys",
+              "answer": "فقدان المفاتيح",
               "points": 3
             },
             {
-              "answer": "Public transit delay",
+              "answer": "تأخر المواصلات",
               "points": 2
             },
             {
-              "answer": "Forgot something",
+              "answer": "نسيان شيء",
               "points": 1
             }
           ]
         },
         {
-          "question": "Name something people are afraid of",
+          "question": "اذكر شيئاً يخاف منه الناس",
           "answers": [
             {
-              "answer": "Spiders",
+              "answer": "العناكب",
               "points": 30
             },
             {
-              "answer": "Heights",
+              "answer": "الأماكن المرتفعة",
               "points": 22
             },
             {
-              "answer": "Snakes",
+              "answer": "الثعابين",
               "points": 18
             },
             {
-              "answer": "Public speaking",
+              "answer": "التحدث أمام الجمهور",
               "points": 12
             },
             {
-              "answer": "Dark",
+              "answer": "الظلام",
               "points": 8
             },
             {
-              "answer": "Death",
+              "answer": "الموت",
               "points": 5
             },
             {
-              "answer": "Flying",
+              "answer": "الطيران",
               "points": 3
             },
             {
-              "answer": "Clowns",
+              "answer": "المهرجون",
               "points": 2
             }
           ]
         },
         {
-          "question": "Name a food you eat with your hands",
+          "question": "اذكر طعاماً تأكله بيديك",
           "answers": [
             {
-              "answer": "Pizza",
+              "answer": "بيتزا",
               "points": 34
             },
             {
-              "answer": "Fries",
+              "answer": "بطاطا مقلية",
               "points": 26
             },
             {
-              "answer": "Burger",
+              "answer": "برجر",
               "points": 20
             },
             {
-              "answer": "Chicken wings",
+              "answer": "أجنحة دجاج",
               "points": 10
             },
             {
-              "answer": "Sandwich",
+              "answer": "ساندويتش",
               "points": 6
             },
             {
-              "answer": "Chips",
+              "answer": "رقائق البطاطا",
               "points": 2
             },
             {
-              "answer": "Tacos",
+              "answer": "تاكو",
               "points": 1
             },
             {
-              "answer": "Popcorn",
+              "answer": "فشار",
               "points": 1
             }
           ]
         },
         {
-          "question": "Name something you do right before bed",
+          "question": "اذكر شيئاً تفعله قبل النوم مباشرة",
           "answers": [
             {
-              "answer": "Brush teeth",
+              "answer": "تنظيف الأسنان",
               "points": 33
             },
             {
-              "answer": "Check phone",
+              "answer": "تفقد الهاتف",
               "points": 25
             },
             {
-              "answer": "Read",
+              "answer": "القراءة",
               "points": 16
             },
             {
-              "answer": "Set alarm",
+              "answer": "ضبط المنبه",
               "points": 12
             },
             {
-              "answer": "Turn off lights",
+              "answer": "إطفاء الأنوار",
               "points": 8
             },
             {
-              "answer": "Wash face",
+              "answer": "غسل الوجه",
               "points": 4
             },
             {
-              "answer": "Pray",
+              "answer": "الدعاء",
               "points": 1
             },
             {
-              "answer": "Drink water",
+              "answer": "شرب الماء",
               "points": 1
             }
           ]
         },
         {
-          "question": "Name a job where you have to wear a uniform",
+          "question": "اذكر وظيفة يرتدي فيها الشخص زياً موحداً",
           "answers": [
             {
-              "answer": "Police officer",
+              "answer": "شرطي",
               "points": 30
             },
             {
-              "answer": "Nurse",
+              "answer": "ممرضة",
               "points": 24
             },
             {
-              "answer": "Soldier",
+              "answer": "جندي",
               "points": 18
             },
             {
-              "answer": "Firefighter",
+              "answer": "رجل إطفاء",
               "points": 14
             },
             {
-              "answer": "Pilot",
+              "answer": "طيار",
               "points": 8
             },
             {
-              "answer": "Chef",
+              "answer": "طاهٍ",
               "points": 3
             },
             {
-              "answer": "Waiter",
+              "answer": "نادل",
               "points": 2
             },
             {
-              "answer": "Security guard",
+              "answer": "حارس أمن",
               "points": 1
             }
           ]
         },
         {
-          "question": "Name something in your kitchen that gets used every day",
+          "question": "اذكر شيئاً في مطبخك يُستخدم يومياً",
           "answers": [
             {
-              "answer": "Refrigerator",
+              "answer": "الثلاجة",
               "points": 36
             },
             {
-              "answer": "Stove",
+              "answer": "الموقد",
               "points": 22
             },
             {
-              "answer": "Kettle",
+              "answer": "غلاية الماء",
               "points": 15
             },
             {
-              "answer": "Microwave",
+              "answer": "الميكروويف",
               "points": 12
             },
             {
-              "answer": "Sink",
+              "answer": "الحوض",
               "points": 7
             },
             {
-              "answer": "Coffee maker",
+              "answer": "ماكينة القهوة",
               "points": 4
             },
             {
-              "answer": "Plates",
+              "answer": "الأطباق",
               "points": 2
             },
             {
-              "answer": "Knife",
+              "answer": "السكين",
               "points": 2
             }
           ]
@@ -270,186 +270,186 @@
       ],
       "surveyQuestions": [
         {
-          "question": "Name something you take to the beach",
+          "question": "اذكر شيئاً تأخذه معك إلى الشاطئ",
           "answers": [
             {
-              "answer": "Towel",
+              "answer": "منشفة",
               "points": 32
             },
             {
-              "answer": "Sunscreen",
+              "answer": "واقي شمس",
               "points": 24
             },
             {
-              "answer": "Umbrella",
+              "answer": "مظلة",
               "points": 18
             },
             {
-              "answer": "Cooler",
+              "answer": "ثلاجة صغيرة",
               "points": 12
             },
             {
-              "answer": "Sunglasses",
+              "answer": "نظارة شمسية",
               "points": 8
             },
             {
-              "answer": "Chair",
+              "answer": "كرسي",
               "points": 4
             },
             {
-              "answer": "Book",
+              "answer": "كتاب",
               "points": 1
             },
             {
-              "answer": "Snacks",
+              "answer": "وجبات خفيفة",
               "points": 1
             }
           ]
         },
         {
-          "question": "Name a reason someone might be late for work",
+          "question": "اذكر سبباً يجعل الشخص يتأخر عن العمل",
           "answers": [
             {
-              "answer": "Traffic",
+              "answer": "الزحام",
               "points": 35
             },
             {
-              "answer": "Overslept",
+              "answer": "الاستيقاظ متأخراً",
               "points": 28
             },
             {
-              "answer": "Car trouble",
+              "answer": "عطل في السيارة",
               "points": 15
             },
             {
-              "answer": "Kids",
+              "answer": "الأطفال",
               "points": 10
             },
             {
-              "answer": "Weather",
+              "answer": "الطقس",
               "points": 6
             },
             {
-              "answer": "Lost keys",
+              "answer": "فقدان المفاتيح",
               "points": 3
             },
             {
-              "answer": "Public transit delay",
+              "answer": "تأخر المواصلات",
               "points": 2
             },
             {
-              "answer": "Forgot something",
+              "answer": "نسيان شيء",
               "points": 1
             }
           ]
         },
         {
-          "question": "Name something people are afraid of",
+          "question": "اذكر شيئاً يخاف منه الناس",
           "answers": [
             {
-              "answer": "Spiders",
+              "answer": "العناكب",
               "points": 30
             },
             {
-              "answer": "Heights",
+              "answer": "الأماكن المرتفعة",
               "points": 22
             },
             {
-              "answer": "Snakes",
+              "answer": "الثعابين",
               "points": 18
             },
             {
-              "answer": "Public speaking",
+              "answer": "التحدث أمام الجمهور",
               "points": 12
             },
             {
-              "answer": "Dark",
+              "answer": "الظلام",
               "points": 8
             },
             {
-              "answer": "Death",
+              "answer": "الموت",
               "points": 5
             },
             {
-              "answer": "Flying",
+              "answer": "الطيران",
               "points": 3
             },
             {
-              "answer": "Clowns",
+              "answer": "المهرجون",
               "points": 2
             }
           ]
         },
         {
-          "question": "Name a food you eat with your hands",
+          "question": "اذكر طعاماً تأكله بيديك",
           "answers": [
             {
-              "answer": "Pizza",
+              "answer": "بيتزا",
               "points": 34
             },
             {
-              "answer": "Fries",
+              "answer": "بطاطا مقلية",
               "points": 26
             },
             {
-              "answer": "Burger",
+              "answer": "برجر",
               "points": 20
             },
             {
-              "answer": "Chicken wings",
+              "answer": "أجنحة دجاج",
               "points": 10
             },
             {
-              "answer": "Sandwich",
+              "answer": "ساندويتش",
               "points": 6
             },
             {
-              "answer": "Chips",
+              "answer": "رقائق البطاطا",
               "points": 2
             },
             {
-              "answer": "Tacos",
+              "answer": "تاكو",
               "points": 1
             },
             {
-              "answer": "Popcorn",
+              "answer": "فشار",
               "points": 1
             }
           ]
         },
         {
-          "question": "Name something you do right before bed",
+          "question": "اذكر شيئاً تفعله قبل النوم مباشرة",
           "answers": [
             {
-              "answer": "Brush teeth",
+              "answer": "تنظيف الأسنان",
               "points": 33
             },
             {
-              "answer": "Check phone",
+              "answer": "تفقد الهاتف",
               "points": 25
             },
             {
-              "answer": "Read",
+              "answer": "القراءة",
               "points": 16
             },
             {
-              "answer": "Set alarm",
+              "answer": "ضبط المنبه",
               "points": 12
             },
             {
-              "answer": "Turn off lights",
+              "answer": "إطفاء الأنوار",
               "points": 8
             },
             {
-              "answer": "Wash face",
+              "answer": "غسل الوجه",
               "points": 4
             },
             {
-              "answer": "Pray",
+              "answer": "الدعاء",
               "points": 1
             },
             {
-              "answer": "Drink water",
+              "answer": "شرب الماء",
               "points": 1
             }
           ]
